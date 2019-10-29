@@ -1,5 +1,5 @@
 # robofriends
-Tutorial for udemy course - React
+Little React App made following Andrei Neagoie's Web Developer Udemy course.
 To run the project:
 
 1. Clone this repo
